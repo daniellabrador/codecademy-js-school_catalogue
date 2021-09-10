@@ -22,16 +22,16 @@ We need to create classes for primary and high schools. Because these classes sh
 - Setters: the `numberOfStudents` property has a setter
 - Methods: `.quickFacts()` and `.pickSubstituteTeacher()` (this is a static method)
 
-### Primary
+### PrimarySchool
 
 - Includes everything in the `School` class, plus one additional property
 - Properties: `pickupPolicy` (string)
 
-### Middle
+### MiddleSchool
 
 - Does not include any additional properties or methods
 
-### High
+### HighSchool
 
 - Includes everything in the `School` class, plus one additional property
 - Properties: `sportsTeams` (array of strings)
